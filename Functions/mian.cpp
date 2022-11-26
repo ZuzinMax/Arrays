@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 const int ROWS = 3;
@@ -34,10 +34,10 @@ void main()
 	minValueIn(arr, n);
 	maxValueIn(arr, n);
 	Sort(arr, n);
-	/*cout << "Ââåäèòå êîë-âî ñäâèãîâ: "; cin >> number_of_shifts;
+	/*cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÐºÐ¾Ð»-Ð²Ð¾ ÑÐ´Ð²Ð¸Ð³Ð¾Ð²: "; cin >> number_of_shifts;
 	shiftLeft(arr, n, number_of_shifts);
 	Print(arr, n);
-	cout << "Ââåäèòå êîë-âî ñäâèãîâ: "; cin >> number_of_shifts;
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÐºÐ¾Ð»-Ð²Ð¾ ÑÐ´Ð²Ð¸Ð³Ð¾Ð²: "; cin >> number_of_shifts;
 	shiftRight(arr, n, number_of_shifts);*/
 	/*Print(arr, n);*/
 
